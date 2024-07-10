@@ -26,4 +26,8 @@ public class GeeksForGeeks {
         int n = 6;
         printPattern(n);
     }
+
+    public static void DisplayMessage(){
+        console.log('Hellow');
+    }
 }
